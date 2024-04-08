@@ -8,3 +8,16 @@ Ensure Node.js is installed on your system. Clone the repository and run:
 
 ```bash
 npm install
+````
+
+## Run ES6 version
+
+```bash
+node main.js
+```
+
+## Run ES5 version
+
+```bash
+node dist/main.js
+```
